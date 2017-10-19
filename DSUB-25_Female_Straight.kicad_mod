@@ -1,4 +1,4 @@
-(module DSUB-25_Female_Straight (layer F.Cu) (tedit 59E9195C)
+(module DSUB-25_Female_Straight (layer F.Cu) (tedit 59E91D5F)
   (descr "25-pin D-Sub connector, straight, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "25-pin D-Sub connector straight THT female pitch 2.77x2.84mm mounting holes distance 47.1mm")
   (fp_text reference REF** (at -16.62 -5.89) (layer F.SilkS)
@@ -76,7 +76,7 @@
   (fp_text user %R (at -16.62 1.42) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${{KISYS3DMOD}}/Connectors_DSub.3dshapes/DSUB-25_Female_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_DSub.3dshapes/DSUB-25_Female_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

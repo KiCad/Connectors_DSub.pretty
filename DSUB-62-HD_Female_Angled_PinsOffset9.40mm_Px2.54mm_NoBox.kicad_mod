@@ -1,4 +1,4 @@
-(module DSUB-62-HD_Female_Angled_PinsOffset9.40mm_Px2.54mm_NoBox (layer F.Cu) (tedit 59E9195F)
+(module DSUB-62-HD_Female_Angled_PinsOffset9.40mm_Px2.54mm_NoBox (layer F.Cu) (tedit 59E91D62)
   (descr "62-pin D-Sub connector, angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf")
   (tags "62-pin D-Sub connector angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm")
   (fp_text reference REF** (at -30.365 0.74) (layer F.SilkS)
@@ -296,7 +296,7 @@
   (fp_text user %R (at -30.365 17.965) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${{KISYS3DMOD}}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Angled_PinsOffset9.40mm_Px2.54mm_NoBox.wrl
+  (model ${KISYS3DMOD}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Angled_PinsOffset9.40mm_Px2.54mm_NoBox.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

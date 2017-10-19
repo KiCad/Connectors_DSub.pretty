@@ -1,4 +1,4 @@
-(module DSUB-37_Male_EgdeMount (layer F.Cu) (tedit 59E9195D)
+(module DSUB-37_Male_EgdeMount (layer F.Cu) (tedit 59E91D60)
   (descr "37-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "37-pin D-Sub connector straight edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 63.5mm")
   (attr smd)
@@ -241,7 +241,7 @@
   (fp_text user "PCB edge" (at -29.7 1.323333) (layer Dwgs.User)
     (effects (font (size 0.5 0.5) (thickness 0.075)))
   )
-  (model ${{KISYS3DMOD}}/Connectors_DSub.3dshapes/DSUB-37_Male_EgdeMount.wrl
+  (model ${KISYS3DMOD}/Connectors_DSub.3dshapes/DSUB-37_Male_EgdeMount.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
