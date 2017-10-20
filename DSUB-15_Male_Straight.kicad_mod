@@ -1,4 +1,4 @@
-(module DSUB-15_Male_Straight (layer F.Cu) (tedit 59E91D5F)
+(module DSUB-15_Male_Straight (layer F.Cu) (tedit 59E98A21)
   (descr "15-pin D-Sub connector, straight, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "15-pin D-Sub connector straight THT male pitch 2.77x2.84mm mounting holes distance 33.3mm")
   (fp_text reference REF** (at 9.695 -5.89) (layer F.SilkS)

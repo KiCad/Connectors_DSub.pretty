@@ -1,4 +1,4 @@
-(module DSUB-44-HD_Female_Straight_NoMountingHoles (layer F.Cu) (tedit 59E91D61)
+(module DSUB-44-HD_Female_Straight_NoMountingHoles (layer F.Cu) (tedit 59E98A23)
   (descr "44-pin D-Sub connector, straight, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "44-pin D-Sub connector straight THT female pitch 2.29x1.98mm mounting holes distance 47.1mm")
   (fp_text reference REF** (at -15.525 -5.33) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module DSUB-37_Male_Straight_NoMountingHoles (layer F.Cu) (tedit 59E91D5F)
+(module DSUB-37_Male_Straight_NoMountingHoles (layer F.Cu) (tedit 59E98A21)
   (descr "37-pin D-Sub connector, straight, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "37-pin D-Sub connector straight THT male pitch 2.77x2.84mm mounting holes distance 63.5mm")
   (fp_text reference REF** (at 24.93 -5.89) (layer F.SilkS)
