@@ -1,4 +1,4 @@
-(module DSUB-26-HD_Female_Straight (layer F.Cu) (tedit 59E98A23)
+(module DSUB-26-HD_Female_Straight (layer F.Cu) (tedit 59ECA7A1)
   (descr "26-pin D-Sub connector, straight, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "26-pin D-Sub connector straight THT female pitch 2.29x1.98mm mounting holes distance 33.3mm")
   (fp_text reference REF** (at -8.625 -5.33) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module DSUB-9_Female_Angled_PinsOffset9.90mm_MountingHolesOffset11.32mm (layer F.Cu) (tedit 59E98A21)
+(module DSUB-9_Female_Angled_PinsOffset9.90mm_MountingHolesOffset11.32mm (layer F.Cu) (tedit 59ECA7A0)
   (descr "9-pin D-Sub connector, angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm")
   (fp_text reference REF** (at -5.54 -2.8) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module DSUB-9_Female_Angled_PinsOffset9.40mm_NoBox (layer F.Cu) (tedit 59E98A22)
+(module DSUB-9_Female_Angled_PinsOffset9.40mm_NoBox (layer F.Cu) (tedit 59ECA7A1)
   (descr "9-pin D-Sub connector, angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf")
   (tags "9-pin D-Sub connector angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm")
   (fp_text reference REF** (at -5.54 -1.8) (layer F.SilkS)

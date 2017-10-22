@@ -1,4 +1,4 @@
-(module DSUB-15_Male_Angled_PinsOffset9.90mm_NoMountingHoles (layer F.Cu) (tedit 59E98A22)
+(module DSUB-15_Male_Angled_PinsOffset9.90mm_NoMountingHoles (layer F.Cu) (tedit 59ECA7A0)
   (descr "15-pin D-Sub connector, angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "15-pin D-Sub connector angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm")
   (fp_text reference REF** (at 9.695 -2.8) (layer F.SilkS)
