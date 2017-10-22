@@ -1,4 +1,4 @@
-(module DSUB-9_Male_Straight (layer F.Cu) (tedit 59ECA79F)
+(module DSUB-9_Male_Straight (layer F.Cu) (tedit 59ECA9A1)
   (descr "9-pin D-Sub connector, straight, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector straight THT male pitch 2.77x2.84mm mounting holes distance 25mm")
   (fp_text reference REF** (at 5.54 -5.89) (layer F.SilkS)
