@@ -1,4 +1,4 @@
-(module DSUB-9_Female_EdgeMount_Pitch2.77mm (layer F.Cu) (tedit 59F22961)
+(module DSUB-9_Female_EdgeMount_Pitch2.77mm (layer F.Cu) (tedit 59F2C3AB)
   (descr "9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 25mm")
   (attr smd)

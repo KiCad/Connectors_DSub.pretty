@@ -1,4 +1,4 @@
-(module DSUB-37_Female_Vertical_Pitch2.77x2.84mm_MountingHoles (layer F.Cu) (tedit 59F22961)
+(module DSUB-37_Female_Vertical_Pitch2.77x2.84mm_MountingHoles (layer F.Cu) (tedit 59F2C3AB)
   (descr "37-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "37-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 63.5mm")
   (fp_text reference REF** (at -24.93 -5.89) (layer F.SilkS)

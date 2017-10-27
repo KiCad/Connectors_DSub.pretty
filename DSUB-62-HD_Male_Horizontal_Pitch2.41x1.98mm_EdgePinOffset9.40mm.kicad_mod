@@ -1,4 +1,4 @@
-(module DSUB-62-HD_Male_Horizontal_Pitch2.41x1.98mm_EdgePinOffset9.40mm (layer F.Cu) (tedit 59F22963)
+(module DSUB-62-HD_Male_Horizontal_Pitch2.41x1.98mm_EdgePinOffset9.40mm (layer F.Cu) (tedit 59F2C3AD)
   (descr "62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf")
   (tags "62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 9.4mm")
   (fp_text reference REF** (at 23.545 -1.8) (layer F.SilkS)

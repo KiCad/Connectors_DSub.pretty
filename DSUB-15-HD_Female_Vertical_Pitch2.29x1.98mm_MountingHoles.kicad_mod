@@ -1,4 +1,4 @@
-(module DSUB-15-HD_Female_Vertical_Pitch2.29x1.98mm_MountingHoles (layer F.Cu) (tedit 59F22962)
+(module DSUB-15-HD_Female_Vertical_Pitch2.29x1.98mm_MountingHoles (layer F.Cu) (tedit 59F2C3AC)
   (descr "15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "15-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 25mm")
   (fp_text reference REF** (at -4.315 -5.33) (layer F.SilkS)
